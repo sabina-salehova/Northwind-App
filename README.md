@@ -3,4 +3,5 @@ https://www.npmjs.com/package/json-server,
 https://reactstrap.github.io/?path=/docs/components-navbar--brand
 
 npm install -g json-server
+</br>
 json-server --watch db.json
